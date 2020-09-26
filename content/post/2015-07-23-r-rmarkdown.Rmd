@@ -1,7 +1,7 @@
 ---
 title: "Distribution of Canadians' Age"
 author: "Zuzhang Zhao"
-date: 2020-09-20T21:13:14-05:00
+date: 2020-09-22T21:13:14-05:00
 bibliography: "references.bib"
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
